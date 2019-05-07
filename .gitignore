@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#custom
+.bash_history
+.bash_logout
+.bashrc
+.local/
+.profile
+.python_history
+.tmux/
+
