@@ -111,4 +111,5 @@ venv.bak/
 .profile
 .python_history
 .tmux/
-
+.mysql_history
+.viminfo
